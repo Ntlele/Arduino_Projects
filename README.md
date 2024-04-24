@@ -12,4 +12,4 @@ Components
 
 How to connect
  
-<div><img src=""></div>
+<div><img src="https://github.com/Ntlele/Arduino_Projects/blob/main/Relay_and_unoREV2/Images/Screenshot%202024-04-23%20175829.png?raw=true"></div>
